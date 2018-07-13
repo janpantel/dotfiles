@@ -1,0 +1,8 @@
+dir=$HOME/dotfiles
+
+source $dir/aliases
+source $dir/ps1
+source $dir/path
+source $dir/vars
+
+[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion

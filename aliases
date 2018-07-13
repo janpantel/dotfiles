@@ -1,0 +1,10 @@
+alias l="ls -la"
+alias c="cd .."
+alias q="exit"
+alias v="vim"
+alias cl="clear"
+
+alias ga="git add --all"
+alias gs="git status"
+alias gca="git add --all . && git commit"
+alias gco="git checkout"
