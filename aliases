@@ -8,3 +8,6 @@ alias ga="git add --all"
 alias gs="git status"
 alias gca="git add --all . && git commit"
 alias gco="git checkout"
+
+alias xon="xdebug-toggle on && valet restart"
+alias xoff="xdebug-toggle off && valet restart"
